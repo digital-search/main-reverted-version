@@ -1,0 +1,20 @@
+{
+  "title": "Digital Search",
+  "url": "https://digital-search.netlify.app",
+  "description": "Test website for  SEO and development",
+  "feed": {
+    "subtitle": "Test website for  SEO and development",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://digital-search.netlify.app"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://digital-search.netlify.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Dan",
+    "email": "TBC",
+    "url": "https://digital-search.netlify.app/about-me/"
+  }
+}
